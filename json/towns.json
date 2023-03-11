@@ -1,0 +1,3038 @@
+[
+  {
+    "town_id": 1,
+    "town_name_en": "Za Bu Thi Ri Township",
+    "town_name_mm": "ဇမ္ဗူသီရိ မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 2,
+    "town_name_en": "Pyinmana Township",
+    "town_name_mm": "ပျဉ်းမနား မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 3,
+    "town_name_en": "Tatkon Township",
+    "town_name_mm": "တပ်ကုန်း မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 4,
+    "town_name_en": "Lewe Township",
+    "town_name_mm": "လယ်ဝေး မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 5,
+    "town_name_en": "Zay Yar Thi Ri Township",
+    "town_name_mm": "ဇေယျာသီရိ မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 6,
+    "town_name_en": "Det Khi Na Thi Ri Township",
+    "town_name_mm": "ဒက္ခိဏသီရိ မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 7,
+    "town_name_en": "Poke Ba Thi Ri Township",
+    "town_name_mm": "ပုဗ္ဗသီရိ မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 8,
+    "town_name_en": "Oke Ta Ra Thi Ri Township",
+    "town_name_mm": "ဥတ္တရသီရိ မြို့နယ်",
+    "region_id": 1
+  },
+  {
+    "town_id": 9,
+    "town_name_en": "Aungmyaythazan Township",
+    "town_name_mm": "အောင်မြေသာစံ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 10,
+    "town_name_en": "Chanayethazan Township",
+    "town_name_mm": "ချမ်းအေးသာစံ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 11,
+    "town_name_en": "Mahaaungmyay Township",
+    "town_name_mm": "မဟာအောင်မြေ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 12,
+    "town_name_en": "Chanmyathazi Township",
+    "town_name_mm": "ချမ်းမြသာစည် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 13,
+    "town_name_en": "Pyigyitagon Township",
+    "town_name_mm": "ပြည်ကြီးတံခွန် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 14,
+    "town_name_en": "Amarapura Township",
+    "town_name_mm": "အမရပူရ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 15,
+    "town_name_en": "Patheingyi Township",
+    "town_name_mm": "ပုသိမ်ကြီး မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 16,
+    "town_name_en": "Pyinoolwin Township",
+    "town_name_mm": "ပြင်ဦးလွင် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 17,
+    "town_name_en": "Mogoke Township",
+    "town_name_mm": "မိုးကုတ် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 18,
+    "town_name_en": "Thabeikkyin Township",
+    "town_name_mm": "သပိတ်ကျင်း မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 19,
+    "town_name_en": "Singu Township",
+    "town_name_mm": "စဉ့်ကူး မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 20,
+    "town_name_en": "Madaya Township",
+    "town_name_mm": "မတ္တရာ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 21,
+    "town_name_en": "Tada-U Township",
+    "town_name_mm": "တံတားဦး မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 22,
+    "town_name_en": "Sintgaing Township",
+    "town_name_mm": "စဉ့်ကိုင် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 23,
+    "town_name_en": "Kyaukse Township",
+    "town_name_mm": "ကျောက်ဆည် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 24,
+    "town_name_en": "Myittha Township",
+    "town_name_mm": "မြစ်သား မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 25,
+    "town_name_en": "Wundwin Township",
+    "town_name_mm": "ဝမ်းတွင်း မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 26,
+    "town_name_en": "Meiktila Township",
+    "town_name_mm": "မိတ္ထီလာ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 27,
+    "town_name_en": "Thazi Township",
+    "town_name_mm": "သာစည် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 28,
+    "town_name_en": "Mahlaing Township",
+    "town_name_mm": "မလှိုင် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 29,
+    "town_name_en": "Pyawbwe Township",
+    "town_name_mm": "ပျော်ဘွယ် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 30,
+    "town_name_en": "Yamethin Township",
+    "town_name_mm": "ရမည်းသင်း မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 31,
+    "town_name_en": "Nyaung-U Township",
+    "town_name_mm": "ညောင်ဦး မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 32,
+    "town_name_en": "Kyaukpadaung Township",
+    "town_name_mm": "ကျောက်ပန်းတောင်း မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 33,
+    "town_name_en": "Myingyan Township",
+    "town_name_mm": "မြင်းခြံ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 34,
+    "town_name_en": "Natogyi Township",
+    "town_name_mm": "နွားထိုးကြီး မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 35,
+    "town_name_en": "Taungtha Township",
+    "town_name_mm": "တောင်သာ မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 36,
+    "town_name_en": "Ngazun Township",
+    "town_name_mm": "ငါန်းဇွန် မြို့နယ်",
+    "region_id": 2
+  },
+  {
+    "town_id": 37,
+    "town_name_en": "Myitnge Town",
+    "town_name_mm": "မြစ်ငယ် မြို့",
+    "region_id": 2
+  },
+  {
+    "town_id": 38,
+    "town_name_en": "Takaung Town",
+    "town_name_mm": "တကောင်း မြို့",
+    "region_id": 2
+  },
+  {
+    "town_id": 39,
+    "town_name_en": "Ku Me Town",
+    "town_name_mm": "ကူမဲ မြို့",
+    "region_id": 2
+  },
+  {
+    "town_id": 40,
+    "town_name_en": "Bagan Town",
+    "town_name_mm": "ပုဂံ မြို့",
+    "region_id": 2
+  },
+  {
+    "town_id": 41,
+    "town_name_en": "Ngathayauk Town",
+    "town_name_mm": "ငါ့သရောက် မြို့",
+    "region_id": 2
+  },
+  {
+    "town_id": 42,
+    "town_name_en": "Si Mee Khon Town",
+    "town_name_mm": "ဆီမီးခုံ မြို့",
+    "region_id": 2
+  },
+  {
+    "town_id": 43,
+    "town_name_en": "Sittwe Township",
+    "town_name_mm": "စစ်တွေ မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 44,
+    "town_name_en": "Maungdaw Township",
+    "town_name_mm": "မောင်တော မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 45,
+    "town_name_en": "Buthidaung Township",
+    "town_name_mm": "ဘူးသီးတောင် မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 46,
+    "town_name_en": "Rathedaung Township",
+    "town_name_mm": "ရသေ့တောင် မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 47,
+    "town_name_en": "Ponnagyun Township",
+    "town_name_mm": "ပုဏ္ဏားကျွန်း မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 48,
+    "town_name_en": "Kyauktaw Township",
+    "town_name_mm": "ကျောက်တော် မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 49,
+    "town_name_en": "Gwa Township",
+    "town_name_mm": "ဂွ မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 50,
+    "town_name_en": "Pauktaw Township",
+    "town_name_mm": "ပေါက်တော မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 51,
+    "town_name_en": "Minbya Township",
+    "town_name_mm": "မင်းပြား မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 52,
+    "town_name_en": "Mrauk-U Township",
+    "town_name_mm": "မြောက်ဦး မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 53,
+    "town_name_en": "Myebon Township",
+    "town_name_mm": "မြေပုံ မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 54,
+    "town_name_en": "Kyaukpyu Township",
+    "town_name_mm": "ကျောက်ဖြူ မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 55,
+    "town_name_en": "Ramree Township",
+    "town_name_mm": "ရမ်းဗြဲ မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 56,
+    "town_name_en": "Munaung Township",
+    "town_name_mm": "မာန်အောင် မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 57,
+    "town_name_en": "Ann Township",
+    "town_name_mm": "အမ်း မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 58,
+    "town_name_en": "Toungup Township",
+    "town_name_mm": "တောင်ကုတ် မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 59,
+    "town_name_en": "Thandwe Township",
+    "town_name_mm": "သံတွဲ မြို့နယ်",
+    "region_id": 3
+  },
+  {
+    "town_id": 60,
+    "town_name_en": "Taungpyoletwea Town",
+    "town_name_mm": "တောင်ပြိုလက်ဝဲ မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 61,
+    "town_name_en": "Kha Maung Seik Town",
+    "town_name_mm": "ခမောင်းဆိပ် မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 62,
+    "town_name_en": "Myin Hlut Town",
+    "town_name_mm": "မြင်းလွှတ် မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 63,
+    "town_name_en": "Kanhtauntkyi Town",
+    "town_name_mm": "ကမ်းထောင့်ကြီး မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 64,
+    "town_name_en": "Sa Ne Town",
+    "town_name_mm": "စနဲ မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 65,
+    "town_name_en": "Lay Taung Town",
+    "town_name_mm": "လေးတောင် မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 66,
+    "town_name_en": "Tat Taung Town",
+    "town_name_mm": "တပ်တောင် မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 67,
+    "town_name_en": "Ma-Ei Town",
+    "town_name_mm": "မအီ မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 68,
+    "town_name_en": "Tan Hlwe Ywar Ma Town",
+    "town_name_mm": "တန်းလွဲရွာမ မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 69,
+    "town_name_en": "Ngapali Town",
+    "town_name_mm": "ငပလီ မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 70,
+    "town_name_en": "Kyeintali Town",
+    "town_name_mm": "ကျိန္တလီ မြို့",
+    "region_id": 3
+  },
+  {
+    "town_id": 71,
+    "town_name_en": "Taunggyi Township",
+    "town_name_mm": "တောင်ကြီး မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 72,
+    "town_name_en": "Kalaw Township",
+    "town_name_mm": "ကလော မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 73,
+    "town_name_en": "Pindaya Township",
+    "town_name_mm": "ပင်းတယ မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 74,
+    "town_name_en": "Ywangan Township",
+    "town_name_mm": "ရွာငံ မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 75,
+    "town_name_en": "Pinlaung Township",
+    "town_name_mm": "ပင်လောင်း မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 76,
+    "town_name_en": "Pekon Township",
+    "town_name_mm": "ဖယ်ခုံ မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 77,
+    "town_name_en": "Lawksawk Township",
+    "town_name_mm": "ရပ်စောက် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 78,
+    "town_name_en": "Nyaungshwe Township",
+    "town_name_mm": "ညောင်ရွှေ မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 79,
+    "town_name_en": "Hopong Township",
+    "town_name_mm": "ဟိုပုံး မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 80,
+    "town_name_en": "Hsihseng Township",
+    "town_name_mm": "ဆီဆိုင် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 81,
+    "town_name_en": "Loilen Township",
+    "town_name_mm": "လွိုင်လင် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 82,
+    "town_name_en": "Laihka Township",
+    "town_name_mm": "လဲချား မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 83,
+    "town_name_en": "Mongkaing Township",
+    "town_name_mm": "မိုင်းကိုင် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 84,
+    "town_name_en": "Monghsu Township",
+    "town_name_mm": "မိုင်းရှူး မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 85,
+    "town_name_en": "Kyethi Township",
+    "town_name_mm": "ကျေးသီး မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 86,
+    "town_name_en": "Nansang Township",
+    "town_name_mm": "နမ့်စန် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 87,
+    "town_name_en": "Mongnai Township",
+    "town_name_mm": "မိုးနဲ မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 88,
+    "town_name_en": "Mawkmai Township",
+    "town_name_mm": "မောက်မယ် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 89,
+    "town_name_en": "Langkho Township",
+    "town_name_mm": "လင်းခေး မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 90,
+    "town_name_en": "Mongpan Township",
+    "town_name_mm": "မိုင်းပန် မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 91,
+    "town_name_en": "Kunhing Township",
+    "town_name_mm": "ကွန်ဟိန်း မြို့နယ်",
+    "region_id": 4
+  },
+  {
+    "town_id": 92,
+    "town_name_en": "Shwenyaung Town",
+    "town_name_mm": "ရွှေညောင် မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 93,
+    "town_name_en": "Ayetharyar Town",
+    "town_name_mm": "အေးသာယာ မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 94,
+    "town_name_en": "Kyauktalonegyi Town",
+    "town_name_mm": "ကျောက်တလုံးကြီး မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 95,
+    "town_name_en": "Aungpan Town",
+    "town_name_mm": "အောင်ပန်း မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 96,
+    "town_name_en": "He Hoe Town",
+    "town_name_mm": "ဟဲဟိုး မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 97,
+    "town_name_en": "Naungtayar Town",
+    "town_name_mm": "နောင်တရား မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 98,
+    "town_name_en": "Pawng Lawng Town",
+    "town_name_mm": "ပေါင်းလောင်း မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 99,
+    "town_name_en": "Intaw Town",
+    "town_name_mm": "အင်တော မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 100,
+    "town_name_en": "Pinlon Town",
+    "town_name_mm": "ပင်လုံ မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 101,
+    "town_name_en": "Mongsan (Hmonesan) Town",
+    "town_name_mm": "မိုင်းစံ (မုန်းဆန်း) မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 102,
+    "town_name_en": "Mongnawng Town",
+    "town_name_mm": "မိုင်းနောင် မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 103,
+    "town_name_en": "Kho Lam Town",
+    "town_name_mm": "ခိုလမ် မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 104,
+    "town_name_en": "Kengtawng Town",
+    "town_name_mm": "ကျိုင်းတောင်း မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 105,
+    "town_name_en": "Homein Town",
+    "town_name_mm": "ဟိုမိန်း မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 106,
+    "town_name_en": "Kar Li Town",
+    "town_name_mm": "ကာလိ မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 107,
+    "town_name_en": "Nang Pang Town",
+    "town_name_mm": "နန်းပန် မြို့",
+    "region_id": 4
+  },
+  {
+    "town_id": 108,
+    "town_name_en": "Dawei Township",
+    "town_name_mm": "ထားဝယ် မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 109,
+    "town_name_en": "Yebyu Township",
+    "town_name_mm": "ရေဖြူ မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 110,
+    "town_name_en": "Thayetchaung Township",
+    "town_name_mm": "သရက်ချောင်း မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 111,
+    "town_name_en": "Launglon Township",
+    "town_name_mm": "လောင်းလုံး မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 112,
+    "town_name_en": "Myeik Township",
+    "town_name_mm": "မြိတ် မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 113,
+    "town_name_en": "Palaw Township",
+    "town_name_mm": "ပုလော မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 114,
+    "town_name_en": "Tanintharyi Township",
+    "town_name_mm": "တနင်္သာရီ မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 115,
+    "town_name_en": "Bokpyin Township",
+    "town_name_mm": "ဘုတ်ပြင်း မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 116,
+    "town_name_en": "Kawthoung Township",
+    "town_name_mm": "ကော့သောင်း မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 117,
+    "town_name_en": "Kyunsu Township",
+    "town_name_mm": "ကျွန်းစု မြို့နယ်",
+    "region_id": 5
+  },
+  {
+    "town_id": 118,
+    "town_name_en": "Myitta Town",
+    "town_name_mm": "မေတ္တာ မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 119,
+    "town_name_en": "Kaleinaung Town",
+    "town_name_mm": "ကလိန်အောင် မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 120,
+    "town_name_en": "Palauk Town",
+    "town_name_mm": "ပလောက် မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 121,
+    "town_name_en": "Pala Town",
+    "town_name_mm": "ပလ မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 122,
+    "town_name_en": "Maw Taung Town",
+    "town_name_mm": "မောတောင် မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 123,
+    "town_name_en": "Pyigyimandaing Town",
+    "town_name_mm": "ပြည်ကြီးမဏ္ဍိုင် မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 124,
+    "town_name_en": "Karathuri Town",
+    "town_name_mm": "ကရသူရိ မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 125,
+    "town_name_en": "Khamaukgyi Town",
+    "town_name_mm": "ခမောက်ကြီး မြို့",
+    "region_id": 5
+  },
+  {
+    "town_id": 126,
+    "town_name_en": "Insein Township",
+    "town_name_mm": "အင်းစိန် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 127,
+    "town_name_en": "Mingaladon Township",
+    "town_name_mm": "မင်္ဂလာဒုံ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 128,
+    "town_name_en": "North Okkalapa Township",
+    "town_name_mm": "မြောက်ဥက္ကလာပ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 129,
+    "town_name_en": "Kamayut Township",
+    "town_name_mm": "ကမာရွတ် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 130,
+    "town_name_en": "Hlaing Township",
+    "town_name_mm": "လှိုင် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 131,
+    "town_name_en": "Mayangone Township",
+    "town_name_mm": "မရမ်းကုန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 132,
+    "town_name_en": "Thingangyun Township",
+    "town_name_mm": "သင်္ဃန်းကျွန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 133,
+    "town_name_en": "Yankin Township",
+    "town_name_mm": "ရန်ကင်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 134,
+    "town_name_en": "South Okkalapa Township",
+    "town_name_mm": "တောင်ဥက္ကလာပ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 135,
+    "town_name_en": "Kyeemyindaing Township",
+    "town_name_mm": "ကြည့်မြင်တိုင် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 136,
+    "town_name_en": "Sanchaung Township",
+    "town_name_mm": "စမ်းချောင်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 137,
+    "town_name_en": "Ahlone Township",
+    "town_name_mm": "အလုံ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 138,
+    "town_name_en": "Lanmadaw Township",
+    "town_name_mm": "လမ်းမတော် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 139,
+    "town_name_en": "Pabedan Township",
+    "town_name_mm": "ပန်းဘဲတန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 140,
+    "town_name_en": "Latha Township",
+    "town_name_mm": "လသာ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 141,
+    "town_name_en": "Botahtaung Township",
+    "town_name_mm": "ဗိုလ်တထောင် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 142,
+    "town_name_en": "Pazundaung Township",
+    "town_name_mm": "ပုဇွန်တောင် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 143,
+    "town_name_en": "Kyauktada Township",
+    "town_name_mm": "ကျောက်တံတား မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 144,
+    "town_name_en": "Dagon Township",
+    "town_name_mm": "ဒဂုံ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 145,
+    "town_name_en": "Bahan Township",
+    "town_name_mm": "ဗဟန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 146,
+    "town_name_en": "Tamwe Township",
+    "town_name_mm": "တာမွေ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 147,
+    "town_name_en": "Mingalartaungnyunt Township",
+    "town_name_mm": "မင်္ဂလာတောင်ညွန့် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 148,
+    "town_name_en": "Thaketa Township",
+    "town_name_mm": "သာကေတ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 149,
+    "town_name_en": "Dawbon Township",
+    "town_name_mm": "ဒေါပုံ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 150,
+    "town_name_en": "Shwepyithar Township",
+    "town_name_mm": "ရွှေပြည်သာ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 151,
+    "town_name_en": "Dala Township",
+    "town_name_mm": "ဒလ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 152,
+    "town_name_en": "Seikgyikanaungto Township",
+    "town_name_mm": "ဆိပ်ကြီး/ခနောင်တို မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 153,
+    "town_name_en": "Cocokyun Township",
+    "town_name_mm": "ကိုကိုးကျွန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 154,
+    "town_name_en": "Thanlyin Township",
+    "town_name_mm": "သန်လျင် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 155,
+    "town_name_en": "Kyauktan Township",
+    "town_name_mm": "ကျောက်တန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 156,
+    "town_name_en": "Thongwa Township",
+    "town_name_mm": "သုံးခွ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 157,
+    "town_name_en": "Kayan Township",
+    "town_name_mm": "ခရမ်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 158,
+    "town_name_en": "Twantay Township",
+    "town_name_mm": "တွံတေး မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 159,
+    "town_name_en": "Kungyangon Township",
+    "town_name_mm": "ကွမ်းခြံကုန်း မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 160,
+    "town_name_en": "Kawhmu Township",
+    "town_name_mm": "ကော့မှူး မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 161,
+    "town_name_en": "Hmawbi Township",
+    "town_name_mm": "မှော်ဘီ မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 162,
+    "town_name_en": "Hlegu Township",
+    "town_name_mm": "လှည်းကူး မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 163,
+    "town_name_en": "Taikkyi Township",
+    "town_name_mm": "တိုက်ကြီး မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 164,
+    "town_name_en": "Htantabin Township",
+    "town_name_mm": "ထန်းတပင် မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 165,
+    "town_name_en": "Hlaingtharya(East) Township",
+    "town_name_mm": "လှိုင်သာယာ(အရှေ့) မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 166,
+    "town_name_en": "Hlaingtharya (West) Township",
+    "town_name_mm": "လှိုင်သာယာ(အနောက်) မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 167,
+    "town_name_en": "Dagon Myothit (North) Township",
+    "town_name_mm": "ဒဂုံမြို့သစ် (မြောက်ပိုင်း) မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 168,
+    "town_name_en": "Dagon Myothit (South) Township",
+    "town_name_mm": "ဒဂုံမြို့သစ် (တောင်ပိုင်း) မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 169,
+    "town_name_en": "Dagon Myothit (Seikkan) Township",
+    "town_name_mm": "ဒဂုံမြို့သစ် (ဆိပ်ကမ်း) မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 170,
+    "town_name_en": "Dagon Myothit (East) Township",
+    "town_name_mm": "ဒဂုံမြို့သစ် (အရှေ့ပိုင်း) မြို့နယ်",
+    "region_id": 6
+  },
+  {
+    "town_id": 171,
+    "town_name_en": "Htaukkyant Town",
+    "town_name_mm": "ထောက်ကြန့် မြို့",
+    "region_id": 6
+  },
+  {
+    "town_id": 172,
+    "town_name_en": "Tadar Town",
+    "town_name_mm": "တံတား မြို့",
+    "region_id": 6
+  },
+  {
+    "town_id": 173,
+    "town_name_en": "Okekan Town",
+    "town_name_mm": "ဥက္ကံ မြို့",
+    "region_id": 6
+  },
+  {
+    "town_id": 174,
+    "town_name_en": "Ahpyauk Town",
+    "town_name_mm": "အဖျောက် မြို့",
+    "region_id": 6
+  },
+  {
+    "town_id": 175,
+    "town_name_en": "Hakha Township",
+    "town_name_mm": "ဟားခါး မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 176,
+    "town_name_en": "Thantlang Township",
+    "town_name_mm": "ထန်တလန် မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 177,
+    "town_name_en": "Falam Township",
+    "town_name_mm": "ဖလမ်း မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 178,
+    "town_name_en": "Tedim Township",
+    "town_name_mm": "တီးတိန် မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 179,
+    "town_name_en": "Tonzang Township",
+    "town_name_mm": "တွန်းဇန် မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 180,
+    "town_name_en": "Matupi Township",
+    "town_name_mm": "မတူပီ မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 181,
+    "town_name_en": "Mindat Township",
+    "town_name_mm": "မင်းတပ် မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 182,
+    "town_name_en": "Kanpetlet Township",
+    "town_name_mm": "ကန်ပက်လက် မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 183,
+    "town_name_en": "Paletwa Township",
+    "town_name_mm": "ပလက်ဝ မြို့နယ်",
+    "region_id": 7
+  },
+  {
+    "town_id": 184,
+    "town_name_en": "Surkhua Town",
+    "town_name_mm": "ဆူရ်ခွား မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 185,
+    "town_name_en": "Hnaring Town",
+    "town_name_mm": "နှာဟရိန် မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 186,
+    "town_name_en": "Rihkhawdar Town",
+    "town_name_mm": "ရိခေါ်ဒါရ် မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 187,
+    "town_name_en": "Webula Town",
+    "town_name_mm": "ဝေဘူလ မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 188,
+    "town_name_en": "Khaikam Town",
+    "town_name_mm": "ခိုင်ကမ်း မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 189,
+    "town_name_en": "Cikha Town",
+    "town_name_mm": "ကျီခါး မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 190,
+    "town_name_en": "Rezua Town",
+    "town_name_mm": "ရေဇွာ မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 191,
+    "town_name_en": "Lalengpi Town",
+    "town_name_mm": "လိုင်လင်းပီ မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 192,
+    "town_name_en": "M\u0027kuiimnu Town",
+    "town_name_mm": "မကွီအိမ်နူး မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 193,
+    "town_name_en": "Kyin Dway Town",
+    "town_name_mm": "ကျင်ဒွေး မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 194,
+    "town_name_en": "Samee Town",
+    "town_name_mm": "ဆမီး မြို့",
+    "region_id": 7
+  },
+  {
+    "town_id": 195,
+    "town_name_en": "Bago Township",
+    "town_name_mm": "ပဲခူး မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 196,
+    "town_name_en": "Kyauktaga Township",
+    "town_name_mm": "ကျောက်တံခါး မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 197,
+    "town_name_en": "Nyaunglebin Township",
+    "town_name_mm": "ညောင်လေးပင် မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 198,
+    "town_name_en": "Kyaukkyi Township",
+    "town_name_mm": "ကျောက်ကြီး မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 199,
+    "town_name_en": "Shwegyin Township",
+    "town_name_mm": "ရွှေကျင် မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 200,
+    "town_name_en": "Daik-U Township",
+    "town_name_mm": "ဒိုက်ဦး မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 201,
+    "town_name_en": "Waw Township",
+    "town_name_mm": "ဝေါ မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 202,
+    "town_name_en": "Thanatpin Township",
+    "town_name_mm": "သနပ်ပင် မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 203,
+    "town_name_en": "Kawa Township",
+    "town_name_mm": "ကဝ မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 204,
+    "town_name_en": "Taungoo Township",
+    "town_name_mm": "တောင်ငူ မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 205,
+    "town_name_en": "Yedashe Township",
+    "town_name_mm": "ရေတာရှည် မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 206,
+    "town_name_en": "Oktwin Township",
+    "town_name_mm": "အုတ်တွင်း မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 207,
+    "town_name_en": "Htantabin Township",
+    "town_name_mm": "ထန်းတပင် မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 208,
+    "town_name_en": "Phyu Township",
+    "town_name_mm": "ဖြူး မြို့နယ်",
+    "region_id": 8
+  },
+  {
+    "town_id": 209,
+    "town_name_en": "Hpayargyi Town",
+    "town_name_mm": "ဘုရားကြီး မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 210,
+    "town_name_en": "Inntakaw Town",
+    "town_name_mm": "အင်းတကော် မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 211,
+    "town_name_en": "Penwegon Town",
+    "town_name_mm": "ပဲနွယ်ကုန်း မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 212,
+    "town_name_en": "Hpa Do Town",
+    "town_name_mm": "ဖဒို မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 213,
+    "town_name_en": "Madauk Town",
+    "town_name_mm": "မဒေါက် မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 214,
+    "town_name_en": "Pyuntasa Town",
+    "town_name_mm": "ပြွန်တန်ဆာ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 215,
+    "town_name_en": "Peinzalok Town",
+    "town_name_mm": "ပိန်းဇလုပ် မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 216,
+    "town_name_en": "Thetkala Town",
+    "town_name_mm": "သက္ကလ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 217,
+    "town_name_en": "Kaytumati Town",
+    "town_name_mm": "ကေတုမတီ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 218,
+    "town_name_en": "Hswar Town",
+    "town_name_mm": "ဆွာ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 219,
+    "town_name_en": "Yae Ni Town",
+    "town_name_mm": "ရေနီ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 220,
+    "town_name_en": "Myo Hla Town",
+    "town_name_mm": "မြို့လှ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 221,
+    "town_name_en": "Kywe Pwe Town",
+    "town_name_mm": "ကျွဲပွဲ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 222,
+    "town_name_en": "Kanyutkwin Town",
+    "town_name_mm": "ကညွတ်ကွင်း မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 223,
+    "town_name_en": "Zayyawadi Town",
+    "town_name_mm": "ဇေယျ၀တီ မြို့",
+    "region_id": 8
+  },
+  {
+    "town_id": 224,
+    "town_name_en": "Loikaw Township",
+    "town_name_mm": "လွိုင်ကော် မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 225,
+    "town_name_en": "Demoso Township",
+    "town_name_mm": "ဒီးမော့ဆို မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 226,
+    "town_name_en": "Hpruso Township",
+    "town_name_mm": "ဖရူဆို မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 227,
+    "town_name_en": "Bawlake Township",
+    "town_name_mm": "ဘောလခဲ မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 228,
+    "town_name_en": "Hpasawng Township",
+    "town_name_mm": "ဖားဆောင်း မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 229,
+    "town_name_en": "Mese Township",
+    "town_name_mm": "မယ်စဲ မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 230,
+    "town_name_en": "Shadaw Township",
+    "town_name_mm": "ရှားတော မြို့နယ်",
+    "region_id": 9
+  },
+  {
+    "town_id": 231,
+    "town_name_en": "Loilen Lay Town",
+    "town_name_mm": "လွိုင်လင်လေး မြို့",
+    "region_id": 9
+  },
+  {
+    "town_id": 232,
+    "town_name_en": "Nan Mei Khon Town",
+    "town_name_mm": "နန်းမယ်ခုံ မြို့",
+    "region_id": 9
+  },
+  {
+    "town_id": 233,
+    "town_name_en": "Ywarthit Town",
+    "town_name_mm": "ရွာသစ် မြို့",
+    "region_id": 9
+  },
+  {
+    "town_id": 234,
+    "town_name_en": "Hpa-An Township",
+    "town_name_mm": "ဘားအံ မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 235,
+    "town_name_en": "Thandaunggyi Township",
+    "town_name_mm": "သံတောင်ကြီး မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 236,
+    "town_name_en": "Hpapun Township",
+    "town_name_mm": "ဖာပွန် မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 237,
+    "town_name_en": "Hlaingbwe Township",
+    "town_name_mm": "လှိုင်းဘွဲ့ မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 238,
+    "town_name_en": "Myawaddy Township",
+    "town_name_mm": "မြဝတီ မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 239,
+    "town_name_en": "Kawkareik Township",
+    "town_name_mm": "ကော့ကရိတ် မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 240,
+    "town_name_en": "Kyainseikgyi Township",
+    "town_name_mm": "ကြာအင်းဆိပ်ကြီး မြို့နယ်",
+    "region_id": 10
+  },
+  {
+    "town_id": 241,
+    "town_name_en": "Thandaung Town",
+    "town_name_mm": "သံတောင် မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 242,
+    "town_name_en": "Leik Tho Town",
+    "town_name_mm": "လိပ်သို မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 243,
+    "town_name_en": "Baw Ga Li Town",
+    "town_name_mm": "ဘောဂလိ မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 244,
+    "town_name_en": "Kamarmaung Town",
+    "town_name_mm": "ကမမောင်း မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 245,
+    "town_name_en": "Paingkyon Town",
+    "town_name_mm": "ပိုင်ကျုံ မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 246,
+    "town_name_en": "Shan Ywar Thit Town",
+    "town_name_mm": "ရှမ်းရွာသစ် မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 247,
+    "town_name_en": "Su Ka Li Town",
+    "town_name_mm": "စုကလိ မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 248,
+    "town_name_en": "Waw Lay Myaing (Waw Lay) Town",
+    "town_name_mm": "ဝေါလေမြိုင် (ဝေါလေ) မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 249,
+    "town_name_en": "Kyondoe Town",
+    "town_name_mm": "ကျုံဒိုး မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 250,
+    "town_name_en": "Hpayarthonesu Town",
+    "town_name_mm": "ဘုရားသုံးဆူ မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 251,
+    "town_name_en": "Kyaikdon Town",
+    "town_name_mm": "ကျိုက်ဒုံ မြို့",
+    "region_id": 10
+  },
+  {
+    "town_id": 252,
+    "town_name_en": "Kengtung Township",
+    "town_name_mm": "ကျိုင်းတုံ မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 253,
+    "town_name_en": "Mongkhet Township",
+    "town_name_mm": "မိုင်းခတ် မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 254,
+    "town_name_en": "Mongyang Township",
+    "town_name_mm": "မိုင်းယန်း မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 255,
+    "town_name_en": "Mongla Township",
+    "town_name_mm": "မိုင်းလား မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 256,
+    "town_name_en": "Monghsat Township",
+    "town_name_mm": "မိုင်းဆတ် မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 257,
+    "town_name_en": "Mongping Township",
+    "town_name_mm": "မိုင်းပျဉ်း မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 258,
+    "town_name_en": "Mongton Township",
+    "town_name_mm": "မိုင်းတုံ မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 259,
+    "town_name_en": "Tachileik Township",
+    "town_name_mm": "တာချီလိတ် မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 260,
+    "town_name_en": "Monghpyak Township",
+    "town_name_mm": "မိုင်းဖြတ် မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 261,
+    "town_name_en": "Mongyawng Township",
+    "town_name_mm": "မိုင်းယောင်း မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 262,
+    "town_name_en": "Ho Tawng (Ho Tao) Township",
+    "town_name_mm": "ဟိုတောင်း မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 263,
+    "town_name_en": "Mong Pawk Township",
+    "town_name_mm": "မိုင်းပေါက် မြို့နယ်",
+    "region_id": 11
+  },
+  {
+    "town_id": 264,
+    "town_name_en": "Mongkhoke Town",
+    "town_name_mm": "မိုင်းခုတ် မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 265,
+    "town_name_en": "Tontar Town",
+    "town_name_mm": "တုံတာ မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 266,
+    "town_name_en": "Ponparkyin Town",
+    "town_name_mm": "ပုံပါကျင် မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 267,
+    "town_name_en": "Hmone Hta Town",
+    "town_name_mm": "မုံးထ မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 268,
+    "town_name_en": "Kenglat Town",
+    "town_name_mm": "ကျိုင်းလပ် မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 269,
+    "town_name_en": "Tarlay Town",
+    "town_name_mm": "တာလေ မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 270,
+    "town_name_en": "Mongyu Town",
+    "town_name_mm": "မိုင်းယု မြို့",
+    "region_id": 11
+  },
+  {
+    "town_id": 271,
+    "town_name_en": "Mawlamyine Township",
+    "town_name_mm": "မော်လမြိုင် မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 272,
+    "town_name_en": "Kyaikto Township",
+    "town_name_mm": "ကျိုက်ထို မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 273,
+    "town_name_en": "Bilin Township",
+    "town_name_mm": "ဘီးလင်း မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 274,
+    "town_name_en": "Thaton Township",
+    "town_name_mm": "သထုံ မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 275,
+    "town_name_en": "Paung Township",
+    "town_name_mm": "ပေါင် မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 276,
+    "town_name_en": "Chaungzon Township",
+    "town_name_mm": "ချောင်းဆုံ မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 277,
+    "town_name_en": "Kyaikmaraw Township",
+    "town_name_mm": "ကျိုက်မရော မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 278,
+    "town_name_en": "Mudon Township",
+    "town_name_mm": "မုဒုံ မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 279,
+    "town_name_en": "Thanbyuzayat Township",
+    "town_name_mm": "သံဖြူဇရပ် မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 280,
+    "town_name_en": "Ye Township",
+    "town_name_mm": "ရေး မြို့နယ်",
+    "region_id": 12
+  },
+  {
+    "town_id": 281,
+    "town_name_en": "Thein Za Yat Town",
+    "town_name_mm": "သိမ်ဇရပ် မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 282,
+    "town_name_en": "Thuwunnawady Town",
+    "town_name_mm": "သုဝဏ္ဏဝတီ မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 283,
+    "town_name_en": "Zinkyaik Town",
+    "town_name_mm": "ဇင်းကျိုက် မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 284,
+    "town_name_en": "Kamarwet Town",
+    "town_name_mm": "ကမာ၀က် မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 285,
+    "town_name_en": "Kyaikkhami Town",
+    "town_name_mm": "ကျိုက္ခမီ မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 286,
+    "town_name_en": "Lamaing Town",
+    "town_name_mm": "လမိုင်း မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 287,
+    "town_name_en": "Khawzar Town",
+    "town_name_mm": "ခေါဇာ မြို့",
+    "region_id": 12
+  },
+  {
+    "town_id": 288,
+    "town_name_en": "Pathein Township",
+    "town_name_mm": "ပုသိမ် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 289,
+    "town_name_en": "Kangyidaunt Township",
+    "town_name_mm": "ကန်ကြီးထောင့် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 290,
+    "town_name_en": "Kyangin Township",
+    "town_name_mm": "ကြံခင်း မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 291,
+    "town_name_en": "Myanaung Township",
+    "town_name_mm": "မြန်အောင် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 292,
+    "town_name_en": "Ingapu Township",
+    "town_name_mm": "အင်္ဂပူ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 293,
+    "town_name_en": "Hinthada Township",
+    "town_name_mm": "ဟင်္သာတ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 294,
+    "town_name_en": "Lemyethna Township",
+    "town_name_mm": "လေးမျက်နှာ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 295,
+    "town_name_en": "Yegyi Township",
+    "town_name_mm": "ရေကြည် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 296,
+    "town_name_en": "Kyonpyaw Town Township",
+    "town_name_mm": "ကျုံပျော် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 297,
+    "town_name_en": "Kyaunggon Township",
+    "town_name_mm": "ကျောင်းကုန်း မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 298,
+    "town_name_en": "Thabaung Township",
+    "town_name_mm": "သာပေါင်း မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 299,
+    "town_name_en": "Labutta Township",
+    "town_name_mm": "လပွတ္တာ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 300,
+    "town_name_en": "Ngapudaw Township",
+    "town_name_mm": "ငပုတော မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 301,
+    "town_name_en": "Zalun Township",
+    "town_name_mm": "ဇလွန် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 302,
+    "town_name_en": "Danubyu Township",
+    "town_name_mm": "ဓနုဖြူ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 303,
+    "town_name_en": "Nyaungdon Township",
+    "town_name_mm": "ညောင်တုန်း မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 304,
+    "town_name_en": "Pantanaw Township",
+    "town_name_mm": "ပန်းတနော် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 305,
+    "town_name_en": "Maubin Township",
+    "town_name_mm": "မအူပင် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 306,
+    "town_name_en": "Einme Township",
+    "town_name_mm": "အိမ်မဲ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 307,
+    "town_name_en": "Wakema Township",
+    "town_name_mm": "ဝါးခယ်မ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 308,
+    "town_name_en": "Myaungmya Township",
+    "town_name_mm": "မြောင်းမြ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 309,
+    "town_name_en": "Mawlamyinegyun Township",
+    "town_name_mm": "မော်လမြိုင်ကျွန်း မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 310,
+    "town_name_en": "Bogale Township",
+    "town_name_mm": "ဘိုကလေး မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 311,
+    "town_name_en": "Kyaiklat Township",
+    "town_name_mm": "ကျိုက်လတ် မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 312,
+    "town_name_en": "Pyapon Township",
+    "town_name_mm": "ဖျာပုံ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 313,
+    "town_name_en": "Dedaye Township",
+    "town_name_mm": "ဒေးဒရဲ မြို့နယ်",
+    "region_id": 13
+  },
+  {
+    "town_id": 314,
+    "town_name_en": "Shwethaungyan Town",
+    "town_name_mm": "ရွှေသောင်ယံ မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 315,
+    "town_name_en": "Ngwesaung Town",
+    "town_name_mm": "ငွေဆောင် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 316,
+    "town_name_en": "Chaung Thar Town",
+    "town_name_mm": "ချောင်းသာ မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 317,
+    "town_name_en": "Batye Town",
+    "town_name_mm": "ဘက်ရဲ မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 318,
+    "town_name_en": "Kanaung Town",
+    "town_name_mm": "ကနောင် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 319,
+    "town_name_en": "In Pin Town",
+    "town_name_mm": "အင်ပင် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 320,
+    "town_name_en": "Htoogyi Town",
+    "town_name_mm": "ထူးကြီး မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 321,
+    "town_name_en": "Me Za Li Kone Town",
+    "town_name_mm": "မဲဇလီကုန်း မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 322,
+    "town_name_en": "Ta Loke Htaw Town",
+    "town_name_mm": "တလုတ္ထော် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 323,
+    "town_name_en": "Du Yar Town",
+    "town_name_mm": "ဒူးယား မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 324,
+    "town_name_en": "Ngathaingchaung Town",
+    "town_name_mm": "ငသိုင်းချောင်း မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 325,
+    "town_name_en": "Ahthoke Town",
+    "town_name_mm": "အသုတ် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 326,
+    "town_name_en": "Ahtaung Town",
+    "town_name_mm": "အထောင် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 327,
+    "town_name_en": "Pyinsalu Town",
+    "town_name_mm": "ပြင်စလူ မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 328,
+    "town_name_en": "Labutta (3) Mile Town",
+    "town_name_mm": "လပွတ္တာ (၃) မိုင် မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 329,
+    "town_name_en": "Ngayokekaung Town",
+    "town_name_mm": "ငရုတ်ကောင်း မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 330,
+    "town_name_en": "Hainggyikyun Town",
+    "town_name_mm": "ဟိုင်းကြီးကျွန်း မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 331,
+    "town_name_en": "Kyonmangae Town",
+    "town_name_mm": "ကျုံမငေး မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 332,
+    "town_name_en": "Ahmar Town",
+    "town_name_mm": "အမာ မြို့",
+    "region_id": 13
+  },
+  {
+    "town_id": 333,
+    "town_name_en": "Pyay Township",
+    "town_name_mm": "ပြည် မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 334,
+    "town_name_en": "Paukkhaung Township",
+    "town_name_mm": "ပေါက်ခေါင်း မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 335,
+    "town_name_en": "Padaung Township",
+    "town_name_mm": "ပန်းတောင်း မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 336,
+    "town_name_en": "Paungde Township",
+    "town_name_mm": "ပေါင်းတည် မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 337,
+    "town_name_en": "Thegon Township",
+    "town_name_mm": "သဲကုန်း မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 338,
+    "town_name_en": "Shwedaung Township",
+    "town_name_mm": "ရွှေတောင် မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 339,
+    "town_name_en": "Thayarwady Township",
+    "town_name_mm": "သာယာဝတီ မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 340,
+    "town_name_en": "Letpadan Township",
+    "town_name_mm": "လက်ပံတန်း မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 341,
+    "town_name_en": "Minhla Township",
+    "town_name_mm": "မင်းလှ မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 342,
+    "town_name_en": "Okpho Township",
+    "town_name_mm": "အုတ်ဖို မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 343,
+    "town_name_en": "Zigon Township",
+    "town_name_mm": "ဇီးကုန်း မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 344,
+    "town_name_en": "Nattalin Township",
+    "town_name_mm": "နတ်တလင်း မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 345,
+    "town_name_en": "Monyo Township",
+    "town_name_mm": "မိုးညို မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 346,
+    "town_name_en": "Gyobingauk Township",
+    "town_name_mm": "ကြို့ပင်ကောက် မြို့နယ်",
+    "region_id": 14
+  },
+  {
+    "town_id": 347,
+    "town_name_en": "Paungdale Town",
+    "town_name_mm": "ပေါင်းတလည် မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 348,
+    "town_name_en": "Oakshitpin Town",
+    "town_name_mm": "ဥရှစ်ပင် မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 349,
+    "town_name_en": "Puteekone Town",
+    "town_name_mm": "ပုတီးကုန်း မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 350,
+    "town_name_en": "Inn Ma Town",
+    "town_name_mm": "အင်းမ မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 351,
+    "town_name_en": "Sin Mee Swea Town",
+    "town_name_mm": "ဆင်မြီးဆွဲ မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 352,
+    "town_name_en": "Thonse Town",
+    "town_name_mm": "သုံးဆယ် မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 353,
+    "town_name_en": "Sit Kwin Town",
+    "town_name_mm": "စစ်ကွင်း မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 354,
+    "town_name_en": "Oe Thei Kone Town",
+    "town_name_mm": "အိုးသည်ကုန်း မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 355,
+    "town_name_en": "Tar Pun Town",
+    "town_name_mm": "တာပွန် မြို့",
+    "region_id": 14
+  },
+  {
+    "town_id": 356,
+    "town_name_en": "Magway Township",
+    "town_name_mm": "မကွေး မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 357,
+    "town_name_en": "Minbu Township",
+    "town_name_mm": "မင်းဘူး မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 358,
+    "town_name_en": "Pwintbyu Township",
+    "town_name_mm": "ပွင့်ဖြူ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 359,
+    "town_name_en": "Salin Township",
+    "town_name_mm": "စလင်း မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 360,
+    "town_name_en": "Sidoktaya Township",
+    "town_name_mm": "စေတုတ္ထရာ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 361,
+    "town_name_en": "Ngape Township",
+    "town_name_mm": "ငဖဲ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 362,
+    "town_name_en": "Minhla Township",
+    "town_name_mm": "မင်းလှ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 363,
+    "town_name_en": "Sinbaungwe Township",
+    "town_name_mm": "ဆင်ပေါင်ဝဲ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 364,
+    "town_name_en": "Thayet Township",
+    "town_name_mm": "သရက် မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 365,
+    "town_name_en": "Mindon Township",
+    "town_name_mm": "မင်းတုန်း မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 366,
+    "town_name_en": "Kamma Township",
+    "town_name_mm": "ကံမ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 367,
+    "town_name_en": "Natmauk Township",
+    "town_name_mm": "နတ်မောက် မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 368,
+    "town_name_en": "Myothit Township",
+    "town_name_mm": "မြို့သစ် မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 369,
+    "town_name_en": "Taungdwingyi Township",
+    "town_name_mm": "တောင်တွင်းကြီး မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 370,
+    "town_name_en": "Aunglan Township",
+    "town_name_mm": "အောင်လံ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 371,
+    "town_name_en": "Yenangyaung Township",
+    "town_name_mm": "ရေနံချောင်း မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 372,
+    "town_name_en": "Chauk Township",
+    "town_name_mm": "ချောက် မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 373,
+    "town_name_en": "Yesagyo Township",
+    "town_name_mm": "ရေစကြို မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 374,
+    "town_name_en": "Myaing Township",
+    "town_name_mm": "မြိုင် မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 375,
+    "town_name_en": "Pakokku Township",
+    "town_name_mm": "ပခုက္ကူ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 376,
+    "town_name_en": "Gangaw Township",
+    "town_name_mm": "ဂန့်ဂေါ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 377,
+    "town_name_en": "Tilin Township",
+    "town_name_mm": "ထီးလင်း မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 378,
+    "town_name_en": "Pauk Township",
+    "town_name_mm": "ပေါက် မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 379,
+    "town_name_en": "Saw Township",
+    "town_name_mm": "ဆော မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 380,
+    "town_name_en": "Seikphyu Township",
+    "town_name_mm": "ဆိပ်ဖြူ မြို့နယ်",
+    "region_id": 15
+  },
+  {
+    "town_id": 381,
+    "town_name_en": "Saku Town",
+    "town_name_mm": "စကု မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 382,
+    "town_name_en": "Sinphyukyun Town",
+    "town_name_mm": "ဆင်ဖြူကျွန်း မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 383,
+    "town_name_en": "Sa Lay Town",
+    "town_name_mm": "စလေ မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 384,
+    "town_name_en": "Kamma (PKU) Town",
+    "town_name_mm": "ကမ္မ (ပခုက္ကူ) မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 385,
+    "town_name_en": "Myit Chay Town",
+    "town_name_mm": "မြစ်ခြေ မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 386,
+    "town_name_en": "Kyaw Town",
+    "town_name_mm": "ကျော မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 387,
+    "town_name_en": "Kyaukhtu Town",
+    "town_name_mm": "ကျောက်ထု မြို့",
+    "region_id": 15
+  },
+  {
+    "town_id": 388,
+    "town_name_en": "Myitkyina Township",
+    "town_name_mm": "မြစ်ကြီးနား မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 389,
+    "town_name_en": "Injangyang Township",
+    "town_name_mm": "အင်ဂျန်းယန် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 390,
+    "town_name_en": "Nawngmun Township",
+    "town_name_mm": "နောင်မွန်း မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 391,
+    "town_name_en": "Machanbaw Township",
+    "town_name_mm": "မချမ်းဘော မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 392,
+    "town_name_en": "Puta-O Township",
+    "town_name_mm": "ပူတာအို မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 393,
+    "town_name_en": "Sumprabum Township",
+    "town_name_mm": "ဆွမ်ပရာဘွမ် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 394,
+    "town_name_en": "Chipwi Township",
+    "town_name_mm": "ချီဖွေ မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 395,
+    "town_name_en": "Waingmaw Township",
+    "town_name_mm": "ဝိုင်းမော် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 396,
+    "town_name_en": "Tanai Township",
+    "town_name_mm": "တနိုင်း မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 397,
+    "town_name_en": "Mogaung Township",
+    "town_name_mm": "မိုးကောင်း မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 398,
+    "town_name_en": "Mohnyin Township",
+    "town_name_mm": "မိုးညှင်း မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 399,
+    "town_name_en": "Shwegu Township",
+    "town_name_mm": "ရွှေကူ မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 400,
+    "town_name_en": "Bhamo Township",
+    "town_name_mm": "ဗန်းမော် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 401,
+    "town_name_en": "Mansi Township",
+    "town_name_mm": "မံစီ မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 402,
+    "town_name_en": "Momauk Township",
+    "town_name_mm": "မိုးမောက် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 403,
+    "town_name_en": "Hpakant Township",
+    "town_name_mm": "ဖားကန့် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 404,
+    "town_name_en": "Tsawlaw Township",
+    "town_name_mm": "ဆော့လော် မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 405,
+    "town_name_en": "Khaunglanhpu Township",
+    "town_name_mm": "ခေါင်လန်ဖူး မြို့နယ်",
+    "region_id": 16
+  },
+  {
+    "town_id": 406,
+    "town_name_en": "Sinbo Town",
+    "town_name_mm": "ဆင်ဘို မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 407,
+    "town_name_en": "Pannandin Town",
+    "town_name_mm": "ပန်နန်းဒင် မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 408,
+    "town_name_en": "Pang War Town",
+    "town_name_mm": "ပန်ဝါ မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 409,
+    "town_name_en": "Sadung Town",
+    "town_name_mm": "ဆဒုံး မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 410,
+    "town_name_en": "Kan Paik Ti Town",
+    "town_name_mm": "ကန်ပိုက်တီ မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 411,
+    "town_name_en": "Shin Bway Yang Town",
+    "town_name_mm": "ရှင်ဗွေယန် မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 412,
+    "town_name_en": "Nammatee Town",
+    "town_name_mm": "နမ္မတီး မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 413,
+    "town_name_en": "Hopin Town",
+    "town_name_mm": "ဟိုပင် မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 414,
+    "town_name_en": "Inn Taw Gyi Town",
+    "town_name_mm": "အင်းတော်ကြီး မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 415,
+    "town_name_en": "Nam Mun Town",
+    "town_name_mm": "နန့်မွန်း မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 416,
+    "town_name_en": "Nam Mar Town",
+    "town_name_mm": "နန်းမား မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 417,
+    "town_name_en": "Myo Hla Town",
+    "town_name_mm": "မြို့လှ မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 418,
+    "town_name_en": "Lwegel Town",
+    "town_name_mm": "လွယ်ဂျယ် မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 419,
+    "town_name_en": "Dawthponeyan Town",
+    "town_name_mm": "ဒေါ့ဖုန်းယန် မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 420,
+    "town_name_en": "Kamaing Town",
+    "town_name_mm": "ကာမိုင်း မြို့",
+    "region_id": 16
+  },
+  {
+    "town_id": 421,
+    "town_name_en": "Nanyun Township",
+    "town_name_mm": "နန်းယွန်း မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 422,
+    "town_name_en": "Lahe Township",
+    "town_name_mm": "လဟယ် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 423,
+    "town_name_en": "Hkamti Township",
+    "town_name_mm": "ခန္တီး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 424,
+    "town_name_en": "Lay Shi Township",
+    "town_name_mm": "လေရှီး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 425,
+    "town_name_en": "Homalin Township",
+    "town_name_mm": "ဟုမ္မလင်း မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 426,
+    "town_name_en": "Paungbyin Township",
+    "town_name_mm": "ဖောင်းပြင် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 427,
+    "town_name_en": "Tamu Township",
+    "town_name_mm": "တမူး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 428,
+    "town_name_en": "Mawlaik Township",
+    "town_name_mm": "မော်လိုက် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 429,
+    "town_name_en": "Kale Township",
+    "town_name_mm": "ကလေး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 430,
+    "town_name_en": "Kalewa Township",
+    "town_name_mm": "ကလေးဝ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 431,
+    "town_name_en": "Mingin Township",
+    "town_name_mm": "မင်းကင်း မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 432,
+    "town_name_en": "Kani Township",
+    "town_name_mm": "ကနီ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 433,
+    "town_name_en": "Banmauk Township",
+    "town_name_mm": "ဗန်းမောက် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 434,
+    "town_name_en": "Indaw Township",
+    "town_name_mm": "အင်းတော် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 435,
+    "town_name_en": "Katha Township",
+    "town_name_mm": "ကသာ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 436,
+    "town_name_en": "Pinlebu Township",
+    "town_name_mm": "ပင်လည်ဘူး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 437,
+    "town_name_en": "Wuntho Township",
+    "town_name_mm": "ဝန်းသို မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 438,
+    "town_name_en": "Kawlin Township",
+    "town_name_mm": "ကောလင်း မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 439,
+    "town_name_en": "Tigyaing Township",
+    "town_name_mm": "ထီးချိုင့် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 440,
+    "town_name_en": "Kyunhla Township",
+    "town_name_mm": "ကျွန်းလှ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 441,
+    "town_name_en": "Kanbalu Township",
+    "town_name_mm": "ကန့်ဘလူ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 442,
+    "town_name_en": "Taze Township",
+    "town_name_mm": "တန့်ဆည် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 443,
+    "town_name_en": "Khin-U Township",
+    "town_name_mm": "ခင်ဦး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 444,
+    "town_name_en": "Ye-U Township",
+    "town_name_mm": "ရေဦး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 445,
+    "town_name_en": "Tabayin Township",
+    "town_name_mm": "ဒီပဲယင်း မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 446,
+    "town_name_en": "Shwebo Township",
+    "town_name_mm": "ရွှေဘို မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 447,
+    "town_name_en": "Budalin Township",
+    "town_name_mm": "ဘုတလင် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 448,
+    "town_name_en": "Wetlet Township",
+    "town_name_mm": "ဝက်လက် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 449,
+    "town_name_en": "Ayadaw Township",
+    "town_name_mm": "အရာတော် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 450,
+    "town_name_en": "Monywa Township",
+    "town_name_mm": "မုံရွာ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 451,
+    "town_name_en": "Yinmarbin Township",
+    "town_name_mm": "ယင်းမာပင် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 452,
+    "town_name_en": "Salingyi Township",
+    "town_name_mm": "ဆားလင်းကြီး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 453,
+    "town_name_en": "Chaung-U Township",
+    "town_name_mm": "ချောင်းဦး မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 454,
+    "town_name_en": "Myinmu Township",
+    "town_name_mm": "မြင်းမူ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 455,
+    "town_name_en": "Pale Township",
+    "town_name_mm": "ပုလဲ မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 456,
+    "town_name_en": "Myaung Township",
+    "town_name_mm": "မြောင် မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 457,
+    "town_name_en": "Sagaing Township",
+    "town_name_mm": "စစ်ကိုင်း မြို့နယ်",
+    "region_id": 17
+  },
+  {
+    "town_id": 458,
+    "town_name_en": "Pansaung Town",
+    "town_name_mm": "ပန်ဆောင် မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 459,
+    "town_name_en": "Don Hee Town Town",
+    "town_name_mm": "ဒုံဟီး မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 460,
+    "town_name_en": "Htan Par Kway Town",
+    "town_name_mm": "ထန်ပါခွေ မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 461,
+    "town_name_en": "Mo Paing Lut Town",
+    "town_name_mm": "မိုပိုင်းလွတ် မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 462,
+    "town_name_en": "Sum Ma Rar Town",
+    "town_name_mm": "ဆွမ္မရာ မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 463,
+    "town_name_en": "Shwe Pyi Aye Town",
+    "town_name_mm": "ရွှေပြည်အေး မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 464,
+    "town_name_en": "Myothit Town",
+    "town_name_mm": "မြို့သစ် မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 465,
+    "town_name_en": "Khampat Town",
+    "town_name_mm": "ခါမ်းပါတ် မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 466,
+    "town_name_en": "Maw Lu Town",
+    "town_name_mm": "မော်လူး မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 467,
+    "town_name_en": "Zee Kone Town",
+    "town_name_mm": "ဇီးကုန်း မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 468,
+    "town_name_en": "Saing Pyin Town",
+    "town_name_mm": "စိုင်ပြင် မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 469,
+    "town_name_en": "Kyauk Myaung Town",
+    "town_name_mm": "ကျောက်မြောင်း မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 470,
+    "town_name_en": "Sar Taung Town",
+    "town_name_mm": "ဆားတောင် မြို့",
+    "region_id": 17
+  },
+  {
+    "town_id": 471,
+    "town_name_en": "Lashio Township",
+    "town_name_mm": "လားရှိုး မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 472,
+    "town_name_en": "Hseni Township",
+    "town_name_mm": "သိန္နီ မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 473,
+    "town_name_en": "Mongyai Township",
+    "town_name_mm": "မိုင်းရယ် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 474,
+    "town_name_en": "Tangyan Township",
+    "town_name_mm": "တန့်ယန်း မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 475,
+    "town_name_en": "Pangsang (Panghkam) Township",
+    "town_name_mm": "ပန်ဆန်း (ပန်ခမ်း) မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 476,
+    "town_name_en": "Narphan Township",
+    "town_name_mm": "နားဖန် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 477,
+    "town_name_en": "Pangwaun Township",
+    "town_name_mm": "ပန်ဝိုင် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 478,
+    "town_name_en": "Mongmao Township",
+    "town_name_mm": "မိုင်းမော မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 479,
+    "town_name_en": "Muse Township",
+    "town_name_mm": "မူဆယ် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 480,
+    "town_name_en": "Namhkan Township",
+    "town_name_mm": "နမ့်ခမ်း မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 481,
+    "town_name_en": "Kutkai Township",
+    "town_name_mm": "ကွတ်ခိုင် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 482,
+    "town_name_en": "Kyaukme Township",
+    "town_name_mm": "ကျောက်မဲ မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 483,
+    "town_name_en": "Nawnghkio Township",
+    "town_name_mm": "နောင်ချို မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 484,
+    "town_name_en": "Hsipaw Township",
+    "town_name_mm": "သီပေါ မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 485,
+    "town_name_en": "Namtu Township",
+    "town_name_mm": "နမ္မတူ မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 486,
+    "town_name_en": "Namhsan Township",
+    "town_name_mm": "နမ့်ဆန် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 487,
+    "town_name_en": "Mongmit Township",
+    "town_name_mm": "မိုးမိတ် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 488,
+    "town_name_en": "Mabein Township",
+    "town_name_mm": "မဘိမ်း မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 489,
+    "town_name_en": "Manton Township",
+    "town_name_mm": "မန်တုံ မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 490,
+    "town_name_en": "Kunlong Township",
+    "town_name_mm": "ကွမ်းလုံ မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 491,
+    "town_name_en": "Hopang Township",
+    "town_name_mm": "ဟိုပန် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 492,
+    "town_name_en": "Laukkaing Township",
+    "town_name_mm": "လောက်ကိုင် မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 493,
+    "town_name_en": "Konkyan Township",
+    "town_name_mm": "ကုန်းကြမ်း မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 494,
+    "town_name_en": "Matman Township",
+    "town_name_mm": "မက်မန်း မြို့နယ်",
+    "region_id": 18
+  },
+  {
+    "town_id": 495,
+    "town_name_en": "Man Kan Town",
+    "town_name_mm": "မန်ကန် မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 496,
+    "town_name_en": "Monekoe Town",
+    "town_name_mm": "မုန်းကိုး မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 497,
+    "town_name_en": "Manhlyoe (Manhero) Town",
+    "town_name_mm": "(မန်ဟျိုး) မန်ဟီးရိုး မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 498,
+    "town_name_en": "Pang Hseng (Kyu Koke) Town",
+    "town_name_mm": "ပန်ဆိုင်း (ကြူကုတ်) မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 499,
+    "town_name_en": "Tarmoenye Town",
+    "town_name_mm": "တာမိုးညဲ မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 500,
+    "town_name_en": "Mongngawt Town",
+    "town_name_mm": "မိုင်းငေါ့ မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 501,
+    "town_name_en": "Monglon Town",
+    "town_name_mm": "မိုင်းလုံ မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 502,
+    "town_name_en": "Nam Tit Town",
+    "town_name_mm": "နမ့်တစ် မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 503,
+    "town_name_en": "Pan Lon Town",
+    "town_name_mm": "ပန်လုံ မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 504,
+    "town_name_en": "Chinshwehaw Town",
+    "town_name_mm": "ချင်းရွှေဟော် မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 505,
+    "town_name_en": "Maw Hteik Town",
+    "town_name_mm": "မော်ထိုက် မြို့",
+    "region_id": 18
+  },
+  {
+    "town_id": 506,
+    "town_name_en": "Wein Kawn Town",
+    "town_name_mm": "ဝိန်းကောင် မြို့",
+    "region_id": 18
+  }
+]

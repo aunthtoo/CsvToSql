@@ -1,0 +1,92 @@
+[
+  {
+    "region_id": 1,
+    "region_name_en": "Naypyitaw Union Territory",
+    "region_name_mm": "နေပြည်တော် (ပြည်ထောင်စုနယ်မြေ)"
+  },
+  {
+    "region_id": 2,
+    "region_name_en": "Mandalay Region",
+    "region_name_mm": "မန္တလေးတိုင်းဒေသကြီး"
+  },
+  {
+    "region_id": 3,
+    "region_name_en": "Rakhine State",
+    "region_name_mm": "ရခိုင်ပြည်နယ်"
+  },
+  {
+    "region_id": 4,
+    "region_name_en": "Shan State (South)",
+    "region_name_mm": "ရှမ်းပြည်နယ် (တောင်ပိုင်း)"
+  },
+  {
+    "region_id": 5,
+    "region_name_en": "Tanintharyi Region",
+    "region_name_mm": "တနင်္သာရီတိုင်းဒေသကြီး"
+  },
+  {
+    "region_id": 6,
+    "region_name_en": "Yangon Region",
+    "region_name_mm": "ရန်ကုန်တိုင်းဒေသကြီး"
+  },
+  {
+    "region_id": 7,
+    "region_name_en": "Chin State",
+    "region_name_mm": "ချင်းပြည်နယ်"
+  },
+  {
+    "region_id": 8,
+    "region_name_en": "Bago Region (East)",
+    "region_name_mm": "ပဲခူးတိုင်းဒေသကြီး (အရှေ့)"
+  },
+  {
+    "region_id": 9,
+    "region_name_en": "Kayah State",
+    "region_name_mm": "ကယားပြည်နယ်"
+  },
+  {
+    "region_id": 10,
+    "region_name_en": "Kayin State",
+    "region_name_mm": "ကရင်ပြည်နယ်"
+  },
+  {
+    "region_id": 11,
+    "region_name_en": "Shan State (East)",
+    "region_name_mm": "ရှမ်းပြည်နယ် (အရှေ့)"
+  },
+  {
+    "region_id": 12,
+    "region_name_en": "Mon State",
+    "region_name_mm": "မွန်ပြည်နယ်"
+  },
+  {
+    "region_id": 13,
+    "region_name_en": "Ayeyarwady Region",
+    "region_name_mm": "ဧရာဝတီတိုင်းဒေသကြီး"
+  },
+  {
+    "region_id": 14,
+    "region_name_en": "Bago Region (West)",
+    "region_name_mm": "ပဲခူးတိုင်းဒေသကြီး (အနောက်)"
+  },
+  {
+    "region_id": 15,
+    "region_name_en": "Magway Region",
+    "region_name_mm": "မကွေးတိုင်းဒေသကြီး"
+  },
+  {
+    "region_id": 16,
+    "region_name_en": "Kachin State",
+    "region_name_mm": "ကချင်ပြည်နယ်"
+  },
+  {
+    "region_id": 17,
+    "region_name_en": "Sagaing Region",
+    "region_name_mm": "စစ်ကိုင်းတိုင်းဒေသကြီး"
+  },
+  {
+    "region_id": 18,
+    "region_name_en": "Shan State (North)",
+    "region_name_mm": "ရှမ်းပြည်နယ် (မြောက်ပိုင်း)"
+  }
+]

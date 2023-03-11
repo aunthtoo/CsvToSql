@@ -1,0 +1,507 @@
+town_id,town_name_en,town_name_mm,region_id
+1,Za Bu Thi Ri Township,ဇမ္ဗူသီရိ မြို့နယ်,1
+2,Pyinmana Township,ပျဉ်းမနား မြို့နယ်,1
+3,Tatkon Township,တပ်ကုန်း မြို့နယ်,1
+4,Lewe Township,လယ်ဝေး မြို့နယ်,1
+5,Zay Yar Thi Ri Township,ဇေယျာသီရိ မြို့နယ်,1
+6,Det Khi Na Thi Ri Township,ဒက္ခိဏသီရိ မြို့နယ်,1
+7,Poke Ba Thi Ri Township,ပုဗ္ဗသီရိ မြို့နယ်,1
+8,Oke Ta Ra Thi Ri Township,ဥတ္တရသီရိ မြို့နယ်,1
+9,Aungmyaythazan Township,အောင်မြေသာစံ မြို့နယ်,2
+10,Chanayethazan Township,ချမ်းအေးသာစံ မြို့နယ်,2
+11,Mahaaungmyay Township,မဟာအောင်မြေ မြို့နယ်,2
+12,Chanmyathazi Township,ချမ်းမြသာစည် မြို့နယ်,2
+13,Pyigyitagon Township,ပြည်ကြီးတံခွန် မြို့နယ်,2
+14,Amarapura Township,အမရပူရ မြို့နယ်,2
+15,Patheingyi Township,ပုသိမ်ကြီး မြို့နယ်,2
+16,Pyinoolwin Township,ပြင်ဦးလွင် မြို့နယ်,2
+17,Mogoke Township,မိုးကုတ် မြို့နယ်,2
+18,Thabeikkyin Township,သပိတ်ကျင်း မြို့နယ်,2
+19,Singu Township,စဉ့်ကူး မြို့နယ်,2
+20,Madaya Township,မတ္တရာ မြို့နယ်,2
+21,Tada-U Township,တံတားဦး မြို့နယ်,2
+22,Sintgaing Township,စဉ့်ကိုင် မြို့နယ်,2
+23,Kyaukse Township,ကျောက်ဆည် မြို့နယ်,2
+24,Myittha Township,မြစ်သား မြို့နယ်,2
+25,Wundwin Township,ဝမ်းတွင်း မြို့နယ်,2
+26,Meiktila Township,မိတ္ထီလာ မြို့နယ်,2
+27,Thazi Township,သာစည် မြို့နယ်,2
+28,Mahlaing Township,မလှိုင် မြို့နယ်,2
+29,Pyawbwe Township,ပျော်ဘွယ် မြို့နယ်,2
+30,Yamethin Township,ရမည်းသင်း မြို့နယ်,2
+31,Nyaung-U Township,ညောင်ဦး မြို့နယ်,2
+32,Kyaukpadaung Township,ကျောက်ပန်းတောင်း မြို့နယ်,2
+33,Myingyan Township,မြင်းခြံ မြို့နယ်,2
+34,Natogyi Township,နွားထိုးကြီး မြို့နယ်,2
+35,Taungtha Township,တောင်သာ မြို့နယ်,2
+36,Ngazun Township,ငါန်းဇွန် မြို့နယ်,2
+37,Myitnge Town,မြစ်ငယ် မြို့,2
+38,Takaung Town,တကောင်း မြို့,2
+39,Ku Me Town,ကူမဲ မြို့,2
+40,Bagan Town,ပုဂံ မြို့,2
+41,Ngathayauk Town,ငါ့သရောက် မြို့,2
+42,Si Mee Khon Town,ဆီမီးခုံ မြို့,2
+43,Sittwe Township,စစ်တွေ မြို့နယ်,3
+44,Maungdaw Township,မောင်တော မြို့နယ်,3
+45,Buthidaung Township,ဘူးသီးတောင် မြို့နယ်,3
+46,Rathedaung Township,ရသေ့တောင် မြို့နယ်,3
+47,Ponnagyun Township,ပုဏ္ဏားကျွန်း မြို့နယ်,3
+48,Kyauktaw Township,ကျောက်တော် မြို့နယ်,3
+49,Gwa Township,ဂွ မြို့နယ်,3
+50,Pauktaw Township,ပေါက်တော မြို့နယ်,3
+51,Minbya Township,မင်းပြား မြို့နယ်,3
+52,Mrauk-U Township,မြောက်ဦး မြို့နယ်,3
+53,Myebon Township,မြေပုံ မြို့နယ်,3
+54,Kyaukpyu Township,ကျောက်ဖြူ မြို့နယ်,3
+55,Ramree Township,ရမ်းဗြဲ မြို့နယ်,3
+56,Munaung Township,မာန်အောင် မြို့နယ်,3
+57,Ann Township,အမ်း မြို့နယ်,3
+58,Toungup Township,တောင်ကုတ် မြို့နယ်,3
+59,Thandwe Township,သံတွဲ မြို့နယ်,3
+60,Taungpyoletwea Town,တောင်ပြိုလက်ဝဲ မြို့,3
+61,Kha Maung Seik Town,ခမောင်းဆိပ် မြို့,3
+62,Myin Hlut Town,မြင်းလွှတ် မြို့,3
+63,Kanhtauntkyi Town,ကမ်းထောင့်ကြီး မြို့,3
+64,Sa Ne Town,စနဲ မြို့,3
+65,Lay Taung Town,လေးတောင် မြို့,3
+66,Tat Taung Town,တပ်တောင် မြို့,3
+67,Ma-Ei Town,မအီ မြို့,3
+68,Tan Hlwe Ywar Ma Town,တန်းလွဲရွာမ မြို့,3
+69,Ngapali Town,ငပလီ မြို့,3
+70,Kyeintali Town,ကျိန္တလီ မြို့,3
+71,Taunggyi Township,တောင်ကြီး မြို့နယ်,4
+72,Kalaw Township,ကလော မြို့နယ်,4
+73,Pindaya Township,ပင်းတယ မြို့နယ်,4
+74,Ywangan Township,ရွာငံ မြို့နယ်,4
+75,Pinlaung Township,ပင်လောင်း မြို့နယ်,4
+76,Pekon Township,ဖယ်ခုံ မြို့နယ်,4
+77,Lawksawk Township,ရပ်စောက် မြို့နယ်,4
+78,Nyaungshwe Township,ညောင်ရွှေ မြို့နယ်,4
+79,Hopong Township,ဟိုပုံး မြို့နယ်,4
+80,Hsihseng Township,ဆီဆိုင် မြို့နယ်,4
+81,Loilen Township,လွိုင်လင် မြို့နယ်,4
+82,Laihka Township,လဲချား မြို့နယ်,4
+83,Mongkaing Township,မိုင်းကိုင် မြို့နယ်,4
+84,Monghsu Township,မိုင်းရှူး မြို့နယ်,4
+85,Kyethi Township,ကျေးသီး မြို့နယ်,4
+86,Nansang Township,နမ့်စန် မြို့နယ်,4
+87,Mongnai Township,မိုးနဲ မြို့နယ်,4
+88,Mawkmai Township,မောက်မယ် မြို့နယ်,4
+89,Langkho Township,လင်းခေး မြို့နယ်,4
+90,Mongpan Township,မိုင်းပန် မြို့နယ်,4
+91,Kunhing Township,ကွန်ဟိန်း မြို့နယ်,4
+92,Shwenyaung Town,ရွှေညောင် မြို့,4
+93,Ayetharyar Town,အေးသာယာ မြို့,4
+94,Kyauktalonegyi Town,ကျောက်တလုံးကြီး မြို့,4
+95,Aungpan Town,အောင်ပန်း မြို့,4
+96,He Hoe Town,ဟဲဟိုး မြို့,4
+97,Naungtayar Town,နောင်တရား မြို့,4
+98,Pawng Lawng Town,ပေါင်းလောင်း မြို့,4
+99,Intaw Town,အင်တော မြို့,4
+100,Pinlon Town,ပင်လုံ မြို့,4
+101,Mongsan (Hmonesan) Town,မိုင်းစံ (မုန်းဆန်း) မြို့,4
+102,Mongnawng Town,မိုင်းနောင် မြို့,4
+103,Kho Lam Town,ခိုလမ် မြို့,4
+104,Kengtawng Town,ကျိုင်းတောင်း မြို့,4
+105,Homein Town,ဟိုမိန်း မြို့,4
+106,Kar Li Town,ကာလိ မြို့,4
+107,Nang Pang Town,နန်းပန် မြို့,4
+108,Dawei Township,ထားဝယ် မြို့နယ်,5
+109,Yebyu Township,ရေဖြူ မြို့နယ်,5
+110,Thayetchaung Township,သရက်ချောင်း မြို့နယ်,5
+111,Launglon Township,လောင်းလုံး မြို့နယ်,5
+112,Myeik Township,မြိတ် မြို့နယ်,5
+113,Palaw Township,ပုလော မြို့နယ်,5
+114,Tanintharyi Township,တနင်္သာရီ မြို့နယ်,5
+115,Bokpyin Township,ဘုတ်ပြင်း မြို့နယ်,5
+116,Kawthoung Township,ကော့သောင်း မြို့နယ်,5
+117,Kyunsu Township,ကျွန်းစု မြို့နယ်,5
+118,Myitta Town,မေတ္တာ မြို့,5
+119,Kaleinaung Town,ကလိန်အောင် မြို့,5
+120,Palauk Town,ပလောက် မြို့,5
+121,Pala Town,ပလ မြို့,5
+122,Maw Taung Town,မောတောင် မြို့,5
+123,Pyigyimandaing Town,ပြည်ကြီးမဏ္ဍိုင် မြို့,5
+124,Karathuri Town,ကရသူရိ မြို့,5
+125,Khamaukgyi Town,ခမောက်ကြီး မြို့,5
+126,Insein Township,အင်းစိန် မြို့နယ်,6
+127,Mingaladon Township,မင်္ဂလာဒုံ မြို့နယ်,6
+128,North Okkalapa Township,မြောက်ဥက္ကလာပ မြို့နယ်,6
+129,Kamayut Township,ကမာရွတ် မြို့နယ်,6
+130,Hlaing Township,လှိုင် မြို့နယ်,6
+131,Mayangone Township,မရမ်းကုန်း မြို့နယ်,6
+132,Thingangyun Township,သင်္ဃန်းကျွန်း မြို့နယ်,6
+133,Yankin Township,ရန်ကင်း မြို့နယ်,6
+134,South Okkalapa Township,တောင်ဥက္ကလာပ မြို့နယ်,6
+135,Kyeemyindaing Township,ကြည့်မြင်တိုင် မြို့နယ်,6
+136,Sanchaung Township,စမ်းချောင်း မြို့နယ်,6
+137,Ahlone Township,အလုံ မြို့နယ်,6
+138,Lanmadaw Township,လမ်းမတော် မြို့နယ်,6
+139,Pabedan Township,ပန်းဘဲတန်း မြို့နယ်,6
+140,Latha Township,လသာ မြို့နယ်,6
+141,Botahtaung Township,ဗိုလ်တထောင် မြို့နယ်,6
+142,Pazundaung Township,ပုဇွန်တောင် မြို့နယ်,6
+143,Kyauktada Township,ကျောက်တံတား မြို့နယ်,6
+144,Dagon Township,ဒဂုံ မြို့နယ်,6
+145,Bahan Township,ဗဟန်း မြို့နယ်,6
+146,Tamwe Township,တာမွေ မြို့နယ်,6
+147,Mingalartaungnyunt Township,မင်္ဂလာတောင်ညွန့် မြို့နယ်,6
+148,Thaketa Township,သာကေတ မြို့နယ်,6
+149,Dawbon Township,ဒေါပုံ မြို့နယ်,6
+150,Shwepyithar Township,ရွှေပြည်သာ မြို့နယ်,6
+151,Dala Township,ဒလ မြို့နယ်,6
+152,Seikgyikanaungto Township,ဆိပ်ကြီး/ခနောင်တို မြို့နယ်,6
+153,Cocokyun Township,ကိုကိုးကျွန်း မြို့နယ်,6
+154,Thanlyin Township,သန်လျင် မြို့နယ်,6
+155,Kyauktan Township,ကျောက်တန်း မြို့နယ်,6
+156,Thongwa Township,သုံးခွ မြို့နယ်,6
+157,Kayan Township,ခရမ်း မြို့နယ်,6
+158,Twantay Township,တွံတေး မြို့နယ်,6
+159,Kungyangon Township,ကွမ်းခြံကုန်း မြို့နယ်,6
+160,Kawhmu Township,ကော့မှူး မြို့နယ်,6
+161,Hmawbi Township,မှော်ဘီ မြို့နယ်,6
+162,Hlegu Township,လှည်းကူး မြို့နယ်,6
+163,Taikkyi Township,တိုက်ကြီး မြို့နယ်,6
+164,Htantabin Township,ထန်းတပင် မြို့နယ်,6
+165,Hlaingtharya(East) Township,လှိုင်သာယာ(အရှေ့) မြို့နယ်,6
+166,Hlaingtharya (West) Township,လှိုင်သာယာ(အနောက်) မြို့နယ်,6
+167,Dagon Myothit (North) Township,ဒဂုံမြို့သစ် (မြောက်ပိုင်း) မြို့နယ်,6
+168,Dagon Myothit (South) Township,ဒဂုံမြို့သစ် (တောင်ပိုင်း) မြို့နယ်,6
+169,Dagon Myothit (Seikkan) Township,ဒဂုံမြို့သစ် (ဆိပ်ကမ်း) မြို့နယ်,6
+170,Dagon Myothit (East) Township,ဒဂုံမြို့သစ် (အရှေ့ပိုင်း) မြို့နယ်,6
+171,Htaukkyant Town,ထောက်ကြန့် မြို့,6
+172,Tadar Town,တံတား မြို့,6
+173,Okekan Town,ဥက္ကံ မြို့,6
+174,Ahpyauk Town,အဖျောက် မြို့,6
+175,Hakha Township,ဟားခါး မြို့နယ်,7
+176,Thantlang Township,ထန်တလန် မြို့နယ်,7
+177,Falam Township,ဖလမ်း မြို့နယ်,7
+178,Tedim Township,တီးတိန် မြို့နယ်,7
+179,Tonzang Township,တွန်းဇန် မြို့နယ်,7
+180,Matupi Township,မတူပီ မြို့နယ်,7
+181,Mindat Township,မင်းတပ် မြို့နယ်,7
+182,Kanpetlet Township,ကန်ပက်လက် မြို့နယ်,7
+183,Paletwa Township,ပလက်ဝ မြို့နယ်,7
+184,Surkhua Town,ဆူရ်ခွား မြို့,7
+185,Hnaring Town,နှာဟရိန် မြို့,7
+186,Rihkhawdar Town,ရိခေါ်ဒါရ် မြို့,7
+187,Webula Town,ဝေဘူလ မြို့,7
+188,Khaikam Town,ခိုင်ကမ်း မြို့,7
+189,Cikha Town,ကျီခါး မြို့,7
+190,Rezua Town,ရေဇွာ မြို့,7
+191,Lalengpi Town,လိုင်လင်းပီ မြို့,7
+192,M'kuiimnu Town,မကွီအိမ်နူး မြို့,7
+193,Kyin Dway Town,ကျင်ဒွေး မြို့,7
+194,Samee Town,ဆမီး မြို့,7
+195,Bago Township,ပဲခူး မြို့နယ်,8
+196,Kyauktaga Township,ကျောက်တံခါး မြို့နယ်,8
+197,Nyaunglebin Township,ညောင်လေးပင် မြို့နယ်,8
+198,Kyaukkyi Township,ကျောက်ကြီး မြို့နယ်,8
+199,Shwegyin Township,ရွှေကျင် မြို့နယ်,8
+200,Daik-U Township,ဒိုက်ဦး မြို့နယ်,8
+201,Waw Township,ဝေါ မြို့နယ်,8
+202,Thanatpin Township,သနပ်ပင် မြို့နယ်,8
+203,Kawa Township,ကဝ မြို့နယ်,8
+204,Taungoo Township,တောင်ငူ မြို့နယ်,8
+205,Yedashe Township,ရေတာရှည် မြို့နယ်,8
+206,Oktwin Township,အုတ်တွင်း မြို့နယ်,8
+207,Htantabin Township,ထန်းတပင် မြို့နယ်,8
+208,Phyu Township,ဖြူး မြို့နယ်,8
+209,Hpayargyi Town,ဘုရားကြီး မြို့,8
+210,Inntakaw Town,အင်းတကော် မြို့,8
+211,Penwegon Town,ပဲနွယ်ကုန်း မြို့,8
+212,Hpa Do Town,ဖဒို မြို့,8
+213,Madauk Town,မဒေါက် မြို့,8
+214,Pyuntasa Town,ပြွန်တန်ဆာ မြို့,8
+215,Peinzalok Town,ပိန်းဇလုပ် မြို့,8
+216,Thetkala Town,သက္ကလ မြို့,8
+217,Kaytumati Town,ကေတုမတီ မြို့,8
+218,Hswar Town,ဆွာ မြို့,8
+219,Yae Ni Town,ရေနီ မြို့,8
+220,Myo Hla Town,မြို့လှ မြို့,8
+221,Kywe Pwe Town,ကျွဲပွဲ မြို့,8
+222,Kanyutkwin Town,ကညွတ်ကွင်း မြို့,8
+223,Zayyawadi Town,ဇေယျ၀တီ မြို့,8
+224,Loikaw Township,လွိုင်ကော် မြို့နယ်,9
+225,Demoso Township,ဒီးမော့ဆို မြို့နယ်,9
+226,Hpruso Township,ဖရူဆို မြို့နယ်,9
+227,Bawlake Township,ဘောလခဲ မြို့နယ်,9
+228,Hpasawng Township,ဖားဆောင်း မြို့နယ်,9
+229,Mese Township,မယ်စဲ မြို့နယ်,9
+230,Shadaw Township,ရှားတော မြို့နယ်,9
+231,Loilen Lay Town,လွိုင်လင်လေး မြို့,9
+232,Nan Mei Khon Town,နန်းမယ်ခုံ မြို့,9
+233,Ywarthit Town,ရွာသစ် မြို့,9
+234,Hpa-An Township,ဘားအံ မြို့နယ်,10
+235,Thandaunggyi Township,သံတောင်ကြီး မြို့နယ်,10
+236,Hpapun Township,ဖာပွန် မြို့နယ်,10
+237,Hlaingbwe Township,လှိုင်းဘွဲ့ မြို့နယ်,10
+238,Myawaddy Township,မြဝတီ မြို့နယ်,10
+239,Kawkareik Township,ကော့ကရိတ် မြို့နယ်,10
+240,Kyainseikgyi Township,ကြာအင်းဆိပ်ကြီး မြို့နယ်,10
+241,Thandaung Town,သံတောင် မြို့,10
+242,Leik Tho Town,လိပ်သို မြို့,10
+243,Baw Ga Li Town,ဘောဂလိ မြို့,10
+244,Kamarmaung Town,ကမမောင်း မြို့,10
+245,Paingkyon Town,ပိုင်ကျုံ မြို့,10
+246,Shan Ywar Thit Town,ရှမ်းရွာသစ် မြို့,10
+247,Su Ka Li Town,စုကလိ မြို့,10
+248,Waw Lay Myaing (Waw Lay) Town,ဝေါလေမြိုင် (ဝေါလေ) မြို့,10
+249,Kyondoe Town,ကျုံဒိုး မြို့,10
+250,Hpayarthonesu Town,ဘုရားသုံးဆူ မြို့,10
+251,Kyaikdon Town,ကျိုက်ဒုံ မြို့,10
+252,Kengtung Township,ကျိုင်းတုံ မြို့နယ်,11
+253,Mongkhet Township,မိုင်းခတ် မြို့နယ်,11
+254,Mongyang Township,မိုင်းယန်း မြို့နယ်,11
+255,Mongla Township,မိုင်းလား မြို့နယ်,11
+256,Monghsat Township,မိုင်းဆတ် မြို့နယ်,11
+257,Mongping Township,မိုင်းပျဉ်း မြို့နယ်,11
+258,Mongton Township,မိုင်းတုံ မြို့နယ်,11
+259,Tachileik Township,တာချီလိတ် မြို့နယ်,11
+260,Monghpyak Township,မိုင်းဖြတ် မြို့နယ်,11
+261,Mongyawng Township,မိုင်းယောင်း မြို့နယ်,11
+262,Ho Tawng (Ho Tao) Township,ဟိုတောင်း မြို့နယ်,11
+263,Mong Pawk Township,မိုင်းပေါက် မြို့နယ်,11
+264,Mongkhoke Town,မိုင်းခုတ် မြို့,11
+265,Tontar Town,တုံတာ မြို့,11
+266,Ponparkyin Town,ပုံပါကျင် မြို့,11
+267,Hmone Hta Town,မုံးထ မြို့,11
+268,Kenglat Town,ကျိုင်းလပ် မြို့,11
+269,Tarlay Town,တာလေ မြို့,11
+270,Mongyu Town,မိုင်းယု မြို့,11
+271,Mawlamyine Township,မော်လမြိုင် မြို့နယ်,12
+272,Kyaikto Township,ကျိုက်ထို မြို့နယ်,12
+273,Bilin Township,ဘီးလင်း မြို့နယ်,12
+274,Thaton Township,သထုံ မြို့နယ်,12
+275,Paung Township,ပေါင် မြို့နယ်,12
+276,Chaungzon Township,ချောင်းဆုံ မြို့နယ်,12
+277,Kyaikmaraw Township,ကျိုက်မရော မြို့နယ်,12
+278,Mudon Township,မုဒုံ မြို့နယ်,12
+279,Thanbyuzayat Township,သံဖြူဇရပ် မြို့နယ်,12
+280,Ye Township,ရေး မြို့နယ်,12
+281,Thein Za Yat Town,သိမ်ဇရပ် မြို့,12
+282,Thuwunnawady Town,သုဝဏ္ဏဝတီ မြို့,12
+283,Zinkyaik Town,ဇင်းကျိုက် မြို့,12
+284,Kamarwet Town,ကမာ၀က် မြို့,12
+285,Kyaikkhami Town,ကျိုက္ခမီ မြို့,12
+286,Lamaing Town,လမိုင်း မြို့,12
+287,Khawzar Town,ခေါဇာ မြို့,12
+288,Pathein Township,ပုသိမ် မြို့နယ်,13
+289,Kangyidaunt Township,ကန်ကြီးထောင့် မြို့နယ်,13
+290,Kyangin Township,ကြံခင်း မြို့နယ်,13
+291,Myanaung Township,မြန်အောင် မြို့နယ်,13
+292,Ingapu Township,အင်္ဂပူ မြို့နယ်,13
+293,Hinthada Township,ဟင်္သာတ မြို့နယ်,13
+294,Lemyethna Township,လေးမျက်နှာ မြို့နယ်,13
+295,Yegyi Township,ရေကြည် မြို့နယ်,13
+296,Kyonpyaw Town Township,ကျုံပျော် မြို့နယ်,13
+297,Kyaunggon Township,ကျောင်းကုန်း မြို့နယ်,13
+298,Thabaung Township,သာပေါင်း မြို့နယ်,13
+299,Labutta Township,လပွတ္တာ မြို့နယ်,13
+300,Ngapudaw Township,ငပုတော မြို့နယ်,13
+301,Zalun Township,ဇလွန် မြို့နယ်,13
+302,Danubyu Township,ဓနုဖြူ မြို့နယ်,13
+303,Nyaungdon Township,ညောင်တုန်း မြို့နယ်,13
+304,Pantanaw Township,ပန်းတနော် မြို့နယ်,13
+305,Maubin Township,မအူပင် မြို့နယ်,13
+306,Einme Township,အိမ်မဲ မြို့နယ်,13
+307,Wakema Township,ဝါးခယ်မ မြို့နယ်,13
+308,Myaungmya Township,မြောင်းမြ မြို့နယ်,13
+309,Mawlamyinegyun Township,မော်လမြိုင်ကျွန်း မြို့နယ်,13
+310,Bogale Township,ဘိုကလေး မြို့နယ်,13
+311,Kyaiklat Township,ကျိုက်လတ် မြို့နယ်,13
+312,Pyapon Township,ဖျာပုံ မြို့နယ်,13
+313,Dedaye Township,ဒေးဒရဲ မြို့နယ်,13
+314,Shwethaungyan Town,ရွှေသောင်ယံ မြို့,13
+315,Ngwesaung Town,ငွေဆောင် မြို့,13
+316,Chaung Thar Town,ချောင်းသာ မြို့,13
+317,Batye Town,ဘက်ရဲ မြို့,13
+318,Kanaung Town,ကနောင် မြို့,13
+319,In Pin Town,အင်ပင် မြို့,13
+320,Htoogyi Town,ထူးကြီး မြို့,13
+321,Me Za Li Kone Town,မဲဇလီကုန်း မြို့,13
+322,Ta Loke Htaw Town,တလုတ္ထော် မြို့,13
+323,Du Yar Town,ဒူးယား မြို့,13
+324,Ngathaingchaung Town,ငသိုင်းချောင်း မြို့,13
+325,Ahthoke Town,အသုတ် မြို့,13
+326,Ahtaung Town,အထောင် မြို့,13
+327,Pyinsalu Town,ပြင်စလူ မြို့,13
+328,Labutta (3) Mile Town,လပွတ္တာ (၃) မိုင် မြို့,13
+329,Ngayokekaung Town,ငရုတ်ကောင်း မြို့,13
+330,Hainggyikyun Town,ဟိုင်းကြီးကျွန်း မြို့,13
+331,Kyonmangae Town,ကျုံမငေး မြို့,13
+332,Ahmar Town,အမာ မြို့,13
+333,Pyay Township,ပြည် မြို့နယ်,14
+334,Paukkhaung Township,ပေါက်ခေါင်း မြို့နယ်,14
+335,Padaung Township,ပန်းတောင်း မြို့နယ်,14
+336,Paungde Township,ပေါင်းတည် မြို့နယ်,14
+337,Thegon Township,သဲကုန်း မြို့နယ်,14
+338,Shwedaung Township,ရွှေတောင် မြို့နယ်,14
+339,Thayarwady Township,သာယာဝတီ မြို့နယ်,14
+340,Letpadan Township,လက်ပံတန်း မြို့နယ်,14
+341,Minhla Township,မင်းလှ မြို့နယ်,14
+342,Okpho Township,အုတ်ဖို မြို့နယ်,14
+343,Zigon Township,ဇီးကုန်း မြို့နယ်,14
+344,Nattalin Township,နတ်တလင်း မြို့နယ်,14
+345,Monyo Township,မိုးညို မြို့နယ်,14
+346,Gyobingauk Township,ကြို့ပင်ကောက် မြို့နယ်,14
+347,Paungdale Town,ပေါင်းတလည် မြို့,14
+348,Oakshitpin Town,ဥရှစ်ပင် မြို့,14
+349,Puteekone Town,ပုတီးကုန်း မြို့,14
+350,Inn Ma Town,အင်းမ မြို့,14
+351,Sin Mee Swea Town,ဆင်မြီးဆွဲ မြို့,14
+352,Thonse Town,သုံးဆယ် မြို့,14
+353,Sit Kwin Town,စစ်ကွင်း မြို့,14
+354,Oe Thei Kone Town,အိုးသည်ကုန်း မြို့,14
+355,Tar Pun Town,တာပွန် မြို့,14
+356,Magway Township,မကွေး မြို့နယ်,15
+357,Minbu Township,မင်းဘူး မြို့နယ်,15
+358,Pwintbyu Township,ပွင့်ဖြူ မြို့နယ်,15
+359,Salin Township,စလင်း မြို့နယ်,15
+360,Sidoktaya Township,စေတုတ္ထရာ မြို့နယ်,15
+361,Ngape Township,ငဖဲ မြို့နယ်,15
+362,Minhla Township,မင်းလှ မြို့နယ်,15
+363,Sinbaungwe Township,ဆင်ပေါင်ဝဲ မြို့နယ်,15
+364,Thayet Township,သရက် မြို့နယ်,15
+365,Mindon Township,မင်းတုန်း မြို့နယ်,15
+366,Kamma Township,ကံမ မြို့နယ်,15
+367,Natmauk Township,နတ်မောက် မြို့နယ်,15
+368,Myothit Township,မြို့သစ် မြို့နယ်,15
+369,Taungdwingyi Township,တောင်တွင်းကြီး မြို့နယ်,15
+370,Aunglan Township,အောင်လံ မြို့နယ်,15
+371,Yenangyaung Township,ရေနံချောင်း မြို့နယ်,15
+372,Chauk Township,ချောက် မြို့နယ်,15
+373,Yesagyo Township,ရေစကြို မြို့နယ်,15
+374,Myaing Township,မြိုင် မြို့နယ်,15
+375,Pakokku Township,ပခုက္ကူ မြို့နယ်,15
+376,Gangaw Township,ဂန့်ဂေါ မြို့နယ်,15
+377,Tilin Township,ထီးလင်း မြို့နယ်,15
+378,Pauk Township,ပေါက် မြို့နယ်,15
+379,Saw Township,ဆော မြို့နယ်,15
+380,Seikphyu Township,ဆိပ်ဖြူ မြို့နယ်,15
+381,Saku Town,စကု မြို့,15
+382,Sinphyukyun Town,ဆင်ဖြူကျွန်း မြို့,15
+383,Sa Lay Town,စလေ မြို့,15
+384,Kamma (PKU) Town,ကမ္မ (ပခုက္ကူ) မြို့,15
+385,Myit Chay Town,မြစ်ခြေ မြို့,15
+386,Kyaw Town,ကျော မြို့,15
+387,Kyaukhtu Town,ကျောက်ထု မြို့,15
+388,Myitkyina Township,မြစ်ကြီးနား မြို့နယ်,16
+389,Injangyang Township,အင်ဂျန်းယန် မြို့နယ်,16
+390,Nawngmun Township,နောင်မွန်း မြို့နယ်,16
+391,Machanbaw Township,မချမ်းဘော မြို့နယ်,16
+392,Puta-O Township,ပူတာအို မြို့နယ်,16
+393,Sumprabum Township,ဆွမ်ပရာဘွမ် မြို့နယ်,16
+394,Chipwi Township,ချီဖွေ မြို့နယ်,16
+395,Waingmaw Township,ဝိုင်းမော် မြို့နယ်,16
+396,Tanai Township,တနိုင်း မြို့နယ်,16
+397,Mogaung Township,မိုးကောင်း မြို့နယ်,16
+398,Mohnyin Township,မိုးညှင်း မြို့နယ်,16
+399,Shwegu Township,ရွှေကူ မြို့နယ်,16
+400,Bhamo Township,ဗန်းမော် မြို့နယ်,16
+401,Mansi Township,မံစီ မြို့နယ်,16
+402,Momauk Township,မိုးမောက် မြို့နယ်,16
+403,Hpakant Township,ဖားကန့် မြို့နယ်,16
+404,Tsawlaw Township,ဆော့လော် မြို့နယ်,16
+405,Khaunglanhpu Township,ခေါင်လန်ဖူး မြို့နယ်,16
+406,Sinbo Town,ဆင်ဘို မြို့,16
+407,Pannandin Town,ပန်နန်းဒင် မြို့,16
+408,Pang War Town,ပန်ဝါ မြို့,16
+409,Sadung Town,ဆဒုံး မြို့,16
+410,Kan Paik Ti Town,ကန်ပိုက်တီ မြို့,16
+411,Shin Bway Yang Town,ရှင်ဗွေယန် မြို့,16
+412,Nammatee Town,နမ္မတီး မြို့,16
+413,Hopin Town,ဟိုပင် မြို့,16
+414,Inn Taw Gyi Town,အင်းတော်ကြီး မြို့,16
+415,Nam Mun Town,နန့်မွန်း မြို့,16
+416,Nam Mar Town,နန်းမား မြို့,16
+417,Myo Hla Town,မြို့လှ မြို့,16
+418,Lwegel Town,လွယ်ဂျယ် မြို့,16
+419,Dawthponeyan Town,ဒေါ့ဖုန်းယန် မြို့,16
+420,Kamaing Town,ကာမိုင်း မြို့,16
+421,Nanyun Township,နန်းယွန်း မြို့နယ်,17
+422,Lahe Township,လဟယ် မြို့နယ်,17
+423,Hkamti Township,ခန္တီး မြို့နယ်,17
+424,Lay Shi Township,လေရှီး မြို့နယ်,17
+425,Homalin Township,ဟုမ္မလင်း မြို့နယ်,17
+426,Paungbyin Township,ဖောင်းပြင် မြို့နယ်,17
+427,Tamu Township,တမူး မြို့နယ်,17
+428,Mawlaik Township,မော်လိုက် မြို့နယ်,17
+429,Kale Township,ကလေး မြို့နယ်,17
+430,Kalewa Township,ကလေးဝ မြို့နယ်,17
+431,Mingin Township,မင်းကင်း မြို့နယ်,17
+432,Kani Township,ကနီ မြို့နယ်,17
+433,Banmauk Township,ဗန်းမောက် မြို့နယ်,17
+434,Indaw Township,အင်းတော် မြို့နယ်,17
+435,Katha Township,ကသာ မြို့နယ်,17
+436,Pinlebu Township,ပင်လည်ဘူး မြို့နယ်,17
+437,Wuntho Township,ဝန်းသို မြို့နယ်,17
+438,Kawlin Township,ကောလင်း မြို့နယ်,17
+439,Tigyaing Township,ထီးချိုင့် မြို့နယ်,17
+440,Kyunhla Township,ကျွန်းလှ မြို့နယ်,17
+441,Kanbalu Township,ကန့်ဘလူ မြို့နယ်,17
+442,Taze Township,တန့်ဆည် မြို့နယ်,17
+443,Khin-U Township,ခင်ဦး မြို့နယ်,17
+444,Ye-U Township,ရေဦး မြို့နယ်,17
+445,Tabayin Township,ဒီပဲယင်း မြို့နယ်,17
+446,Shwebo Township,ရွှေဘို မြို့နယ်,17
+447,Budalin Township,ဘုတလင် မြို့နယ်,17
+448,Wetlet Township,ဝက်လက် မြို့နယ်,17
+449,Ayadaw Township,အရာတော် မြို့နယ်,17
+450,Monywa Township,မုံရွာ မြို့နယ်,17
+451,Yinmarbin Township,ယင်းမာပင် မြို့နယ်,17
+452,Salingyi Township,ဆားလင်းကြီး မြို့နယ်,17
+453,Chaung-U Township,ချောင်းဦး မြို့နယ်,17
+454,Myinmu Township,မြင်းမူ မြို့နယ်,17
+455,Pale Township,ပုလဲ မြို့နယ်,17
+456,Myaung Township,မြောင် မြို့နယ်,17
+457,Sagaing Township,စစ်ကိုင်း မြို့နယ်,17
+458,Pansaung Town,ပန်ဆောင် မြို့,17
+459,Don Hee Town Town,ဒုံဟီး မြို့,17
+460,Htan Par Kway Town,ထန်ပါခွေ မြို့,17
+461,Mo Paing Lut Town,မိုပိုင်းလွတ် မြို့,17
+462,Sum Ma Rar Town,ဆွမ္မရာ မြို့,17
+463,Shwe Pyi Aye Town,ရွှေပြည်အေး မြို့,17
+464,Myothit Town,မြို့သစ် မြို့,17
+465,Khampat Town,ခါမ်းပါတ် မြို့,17
+466,Maw Lu Town,မော်လူး မြို့,17
+467,Zee Kone Town,ဇီးကုန်း မြို့,17
+468,Saing Pyin Town,စိုင်ပြင် မြို့,17
+469,Kyauk Myaung Town,ကျောက်မြောင်း မြို့,17
+470,Sar Taung Town,ဆားတောင် မြို့,17
+471,Lashio Township,လားရှိုး မြို့နယ်,18
+472,Hseni Township,သိန္နီ မြို့နယ်,18
+473,Mongyai Township,မိုင်းရယ် မြို့နယ်,18
+474,Tangyan Township,တန့်ယန်း မြို့နယ်,18
+475,Pangsang (Panghkam) Township,ပန်ဆန်း (ပန်ခမ်း) မြို့နယ်,18
+476,Narphan Township,နားဖန် မြို့နယ်,18
+477,Pangwaun Township,ပန်ဝိုင် မြို့နယ်,18
+478,Mongmao Township,မိုင်းမော မြို့နယ်,18
+479,Muse Township,မူဆယ် မြို့နယ်,18
+480,Namhkan Township,နမ့်ခမ်း မြို့နယ်,18
+481,Kutkai Township,ကွတ်ခိုင် မြို့နယ်,18
+482,Kyaukme Township,ကျောက်မဲ မြို့နယ်,18
+483,Nawnghkio Township,နောင်ချို မြို့နယ်,18
+484,Hsipaw Township,သီပေါ မြို့နယ်,18
+485,Namtu Township,နမ္မတူ မြို့နယ်,18
+486,Namhsan Township,နမ့်ဆန် မြို့နယ်,18
+487,Mongmit Township,မိုးမိတ် မြို့နယ်,18
+488,Mabein Township,မဘိမ်း မြို့နယ်,18
+489,Manton Township,မန်တုံ မြို့နယ်,18
+490,Kunlong Township,ကွမ်းလုံ မြို့နယ်,18
+491,Hopang Township,ဟိုပန် မြို့နယ်,18
+492,Laukkaing Township,လောက်ကိုင် မြို့နယ်,18
+493,Konkyan Township,ကုန်းကြမ်း မြို့နယ်,18
+494,Matman Township,မက်မန်း မြို့နယ်,18
+495,Man Kan Town,မန်ကန် မြို့,18
+496,Monekoe Town,မုန်းကိုး မြို့,18
+497,Manhlyoe (Manhero) Town,(မန်ဟျိုး) မန်ဟီးရိုး မြို့,18
+498,Pang Hseng (Kyu Koke) Town,ပန်ဆိုင်း (ကြူကုတ်) မြို့,18
+499,Tarmoenye Town,တာမိုးညဲ မြို့,18
+500,Mongngawt Town,မိုင်းငေါ့ မြို့,18
+501,Monglon Town,မိုင်းလုံ မြို့,18
+502,Nam Tit Town,နမ့်တစ် မြို့,18
+503,Pan Lon Town,ပန်လုံ မြို့,18
+504,Chinshwehaw Town,ချင်းရွှေဟော် မြို့,18
+505,Maw Hteik Town,မော်ထိုက် မြို့,18
+506,Wein Kawn Town,ဝိန်းကောင် မြို့,18
